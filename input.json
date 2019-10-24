@@ -1,0 +1,646 @@
+[
+    {
+        "id": "7ca8bfac-69fe-4b53-8eed-39b17561af4d",
+        "data": {
+            "listId": "0ad9f525-6e2c-4fe9-ac53-a45a9c1cc518",
+            "responses": {
+                "e55ef00a-8b6d-4844-b729-31d76dd42ab7": "moej",
+                "6d6693ff-2d50-43db-9427-132007438dd8": false
+            },
+            "distance": 0.03,
+            "location": {
+                "lat": 42.37499,
+                "lng": -71.11518
+            },
+            "contactId": "d0698138-decc-49b2-8053-3ce0e0e79d60",
+            "campaignId": "d62eeadd-ca45-40c4-9199-d735b3ac4109",
+            "available": false
+        },
+        "meta": {
+            "created": "2019-10-04T19:52:33.773Z",
+            "resource": "interactions",
+            "createdBy": "d48a3d77-5665-48d2-b76b-390972f2816c"
+        }
+    },
+    {
+        "id": "b0a59f33-f997-479a-8d19-0f9aba76848c",
+        "data": {
+            "listId": "8e868d7d-7779-4a3a-bbc4-e868bd112ed6",
+            "responses": {
+                "de2cbe78-85ac-42a1-b576-1c0350748c33": "fembuccos",
+                "46b5ee52-f682-4475-ac76-6d61d559c9fc": true
+            },
+            "distance": 0.04,
+            "location": {
+                "lat": 42.37476,
+                "lng": -71.11179
+            },
+            "contactId": "e2d996bd-2dc6-40ee-9db5-9070d937a095",
+            "campaignId": "c8a60266-ea43-4ea3-b487-3ceefe3b8770",
+            "available": true
+        },
+        "meta": {
+            "created": "2019-10-18T15:32:33.773Z",
+            "resource": "interactions",
+            "createdBy": "3a4254d3-86d8-471f-a514-51a58bd78b0f"
+        }
+    },
+    {
+        "id": "b149d41b-b769-486f-bf2a-7e44f9f1466f",
+        "data": {
+            "listId": "8b83571b-b615-4a4c-a989-e4d17eae9638",
+            "responses": {
+                "cb0281e0-4302-4dd8-bc3d-77c1405c458d": "rev",
+                "554b7ab0-f17f-4a12-be68-4e334296908a": false
+            },
+            "distance": 0.02,
+            "location": {
+                "lat": 42.37478,
+                "lng": -71.11324
+            },
+            "contactId": "d98c7f89-e94a-40df-aa5e-4172cdd51086",
+            "campaignId": "7ba3732e-aa3e-4adc-ad10-7980e9d7ea2c",
+            "available": false
+        },
+        "meta": {
+            "created": "2019-10-20T22:51:33.780Z",
+            "resource": "interactions",
+            "createdBy": "ecdbf5de-8124-48b3-b326-680baf1f52d8"
+        }
+    },
+    {
+        "id": "d0638e3c-dfe8-40e3-8596-74b4b9e375d8",
+        "data": {
+            "listId": "a319ef5b-f361-4140-86f2-b321c2a78c1a",
+            "responses": {
+                "21a0a547-c3d6-45c1-9dd9-f7997a13366a": "tesu",
+                "74fc977b-d2fb-4efb-a2d2-082838846028": true
+            },
+            "distance": 0.02,
+            "location": {
+                "lat": 42.37704,
+                "lng": -71.11395
+            },
+            "contactId": "6328a6e2-e437-4dde-a93c-829a6b0847fe",
+            "campaignId": "4ffeab0a-8c07-42ab-834c-72504c350523",
+            "available": true
+        },
+        "meta": {
+            "created": "2019-10-22T15:32:33.777Z",
+            "resource": "interactions",
+            "createdBy": "db278745-a8a6-400c-a7ea-4fc8d08afab8"
+        }
+    },
+    {
+        "id": "561e878b-4773-436d-8bc9-cefd1da6d3e0",
+        "data": {
+            "listId": "340a6765-16c9-446e-ad17-60fc9ef34e36",
+            "responses": {
+                "b25a1efa-7dea-4a96-9322-9bfc726b99f9": "bap",
+                "1356ae27-9e25-4eba-bcdc-5f852e12896e": true
+            },
+            "distance": 4.11,
+            "location": {
+                "lat": 42.3779,
+                "lng": -71.11212
+            },
+            "contactId": "81554e71-9136-44d5-9ef4-bdce1feeff55",
+            "campaignId": "c68f8703-8b54-49f7-a752-c05d7e3ab1bb",
+            "available": false
+        },
+        "meta": {
+            "created": "2019-10-01T16:14:33.778Z",
+            "resource": "interactions",
+            "createdBy": "e97ba211-bb4b-4579-9d8b-aceb3e443e9a"
+        }
+    },
+    {
+        "id": "ce00e842-f71e-496b-89fa-1ec55bbdd90f",
+        "data": {
+            "listId": "c887ce60-8859-4cab-877b-3f5f70ca3e75",
+            "responses": {
+                "da639b36-f0d0-4c1a-a0ef-8bf50675faa9": "ecbezi",
+                "39c5ef88-e96b-4fcc-8bfd-0e6e5da2e86e": false
+            },
+            "distance": 0.02,
+            "location": {
+                "lat": 42.37714,
+                "lng": -71.1119
+            },
+            "contactId": "2c9535e6-9244-4f27-ac01-bda3cea9365a",
+            "campaignId": "84d4ae28-b839-4745-9ffb-a0b3a7407089",
+            "available": true
+        },
+        "meta": {
+            "created": "2019-10-22T15:31:33.783Z",
+            "resource": "interactions",
+            "createdBy": "9f04d790-b526-49d6-8ff3-f3220fba599d"
+        }
+    },
+    {
+        "id": "3d7d227d-fa78-47c2-8cb5-df43275ebe65",
+        "data": {
+            "listId": "eee0085a-6b6f-49ab-8344-68103dbe9305",
+            "responses": {
+                "0a03a761-cfed-4770-9510-cca6f417700f": "gihuw",
+                "476e945d-183a-411b-9fc8-ef96d5aef930": false
+            },
+            "distance": 0.03,
+            "location": {
+                "lat": 42.37783,
+                "lng": -71.11523
+            },
+            "contactId": "1c3e38f7-fd92-411a-898e-94899dea3cfb",
+            "campaignId": "db19a485-b453-4634-8fd8-29e08b3baf60",
+            "available": true
+        },
+        "meta": {
+            "created": "2019-10-22T15:42:33.782Z",
+            "resource": "interactions",
+            "createdBy": "9f04d790-b526-49d6-8ff3-f3220fba599d"
+        }
+    },
+    {
+        "id": "260fcb9f-243b-4932-8736-0b7c0f1799e5",
+        "data": {
+            "listId": "ccb7fb49-0f55-457c-877d-5ad1fb1a276d",
+            "responses": {
+                "3eba0d3a-8475-4b64-bd2f-7fb1656f62bb": "bubanipe",
+                "e970b7f8-f3ad-4093-ae7a-ad26b8449cd4": true
+            },
+            "distance": 0.03,
+            "location": {
+                "lat": 42.37807,
+                "lng": -71.11036
+            },
+            "contactId": "c6265e9b-c94d-4ad4-a384-cf6c55508350",
+            "campaignId": "54478575-5f05-45c4-97c9-4d686cc66fbf",
+            "available": false
+        },
+        "meta": {
+            "created": "2019-10-06T16:45:33.772Z",
+            "resource": "interactions",
+            "createdBy": "3a4254d3-86d8-471f-a514-51a58bd78b0f"
+        }
+    },
+    {
+        "id": "909f1dc0-8a51-41cc-9ca3-b1a1759ace50",
+        "data": {
+            "listId": "1e6affc0-420c-451d-a5bd-4e0b8016be79",
+            "responses": {
+                "910557ca-2e46-465d-ad3b-00e436b03d14": "po",
+                "0aa64cf9-1094-4678-ad14-a7034dd8737f": false
+            },
+            "distance": 0.01,
+            "location": {
+                "lat": 42.37729,
+                "lng": -71.1136
+            },
+            "contactId": "c9cbfcee-0603-400b-9b4a-3b12bc5c6caa",
+            "campaignId": "f1d3c895-110a-4365-9812-71ceec871781",
+            "available": true
+        },
+        "meta": {
+            "created": "2019-10-22T15:42:33.781Z",
+            "resource": "interactions",
+            "createdBy": "9f04d790-b526-49d6-8ff3-f3220fba599d"
+        }
+    },
+    {
+        "id": "1e08e8c4-ec4c-4129-8af4-23abd96e5f33",
+        "data": {
+            "listId": "93488503-66d6-4f58-b43b-78914e652ee2",
+            "responses": {
+                "8d32493b-13ad-43cc-8f66-c5036b1ac29a": "fok",
+                "a520c26f-dbd7-4f11-969d-4240afca998d": false
+            },
+            "distance": 4.91,
+            "location": {
+                "lat": 42.37568,
+                "lng": -71.11057
+            },
+            "contactId": "f8f54772-8151-4cc7-8f33-499845f7b8cd",
+            "campaignId": "3b54581f-8ba8-4a28-85d3-5698f063481f",
+            "available": false
+        },
+        "meta": {
+            "created": "2019-10-09T20:10:33.781Z",
+            "resource": "interactions",
+            "createdBy": "a2f88a19-06c1-4c1b-ae53-e543312a1266"
+        }
+    },
+    {
+        "id": "299e1642-ec40-41ad-b006-8be6cc01ab7b",
+        "data": {
+            "listId": "61146b05-60e2-4c7e-a2ed-7748e3eccddb",
+            "responses": {
+                "a366c865-f463-4222-9fe1-5553011c516e": "bibbabfo",
+                "a8433601-b504-4fc6-8403-3115dfd2fd85": true
+            },
+            "distance": 0.02,
+            "location": {
+                "lat": 42.37608,
+                "lng": -71.11186
+            },
+            "contactId": "15b83069-5374-49f6-84c8-5d67fd3a0f38",
+            "campaignId": "176ad7af-1bfb-4623-9632-9ed8a8e4233d",
+            "available": true
+        },
+        "meta": {
+            "created": "2019-10-22T15:29:33.777Z",
+            "resource": "interactions",
+            "createdBy": "db278745-a8a6-400c-a7ea-4fc8d08afab8"
+        }
+    },
+    {
+        "id": "d82555c9-9512-411d-8087-0ea4dae3e0eb",
+        "data": {
+            "listId": "eba12242-f72d-4845-8a51-58ceddbad082",
+            "responses": {
+                "d0a5b720-5200-4088-9e70-fca2ff44c314": "tag",
+                "82715608-7784-4214-869b-0d21840f085e": true
+            },
+            "distance": 0.03,
+            "location": {
+                "lat": 42.37427,
+                "lng": -71.11095
+            },
+            "contactId": "89ef1b70-9a6d-4d5c-83b9-a2a64606b803",
+            "campaignId": "9ec9ef8f-c2de-4d7d-8921-9fd2109e7d93",
+            "available": false
+        },
+        "meta": {
+            "created": "2019-10-04T16:19:33.772Z",
+            "resource": "interactions",
+            "createdBy": "3a4254d3-86d8-471f-a514-51a58bd78b0f"
+        }
+    },
+    {
+        "id": "fa270071-390b-4617-bd9d-245d4ced4817",
+        "data": {
+            "listId": "787f6526-4ce8-4ac6-b2cc-be327bd0cb23",
+            "responses": {
+                "c0f8096f-4761-4a6d-8811-d30610d36f47": "ukikepum",
+                "2137c822-132d-4dbf-908a-f699090e2983": true
+            },
+            "distance": 0.04,
+            "location": {
+                "lat": 42.37657,
+                "lng": -71.11155
+            },
+            "contactId": "bbf7db7f-4823-44e0-843d-87a895da49a5",
+            "campaignId": "795f5489-d22d-4758-9d64-8dfe04d4a449",
+            "available": false
+        },
+        "meta": {
+            "created": "2019-10-10T22:57:33.781Z",
+            "resource": "interactions",
+            "createdBy": "a2f88a19-06c1-4c1b-ae53-e543312a1266"
+        }
+    },
+    {
+        "id": "660a2061-5fc5-407f-9c3a-6e64c59f2178",
+        "data": {
+            "listId": "9a3b995d-423f-441d-a8b7-61b0e574c177",
+            "responses": {
+                "01565916-2973-4656-863b-b5af9f5a9e2c": "jibeav",
+                "1b0cbba0-1fe4-45b6-a493-e5bff0824577": true
+            },
+            "distance": 0.04,
+            "location": {
+                "lat": 42.37769,
+                "lng": -71.11134
+            },
+            "contactId": "e85a77dc-9cd6-4e55-872c-7de62f6a0bb5",
+            "campaignId": "0b7a158a-d3b1-4061-a197-a4707a0d472f",
+            "available": true
+        },
+        "meta": {
+            "created": "2019-10-22T15:42:33.776Z",
+            "resource": "interactions",
+            "createdBy": "db278745-a8a6-400c-a7ea-4fc8d08afab8"
+        }
+    },
+    {
+        "id": "d53281ba-5443-48d8-a37f-69ac9f1cfa53",
+        "data": {
+            "listId": "451527c3-9a1a-4b32-bf8e-0be39c647ecb",
+            "responses": {
+                "9f4835f3-9c04-4586-b4c2-4075066b818e": "baba",
+                "07ebcb77-57bf-40f3-9268-65dca40ac2b6": true
+            },
+            "distance": 0.03,
+            "location": {
+                "lat": 42.37416,
+                "lng": -71.11556
+            },
+            "contactId": "96f416f1-4744-4f97-8ed4-eaa20389e38e",
+            "campaignId": "ed4cc86e-8f76-4c9e-80ff-97ad7ee89a60",
+            "available": true
+        },
+        "meta": {
+            "created": "2019-10-22T15:45:33.777Z",
+            "resource": "interactions",
+            "createdBy": "db278745-a8a6-400c-a7ea-4fc8d08afab8"
+        }
+    },
+    {
+        "id": "b73df72e-14be-4f0f-976c-449784a0b33f",
+        "data": {
+            "listId": "f241b15e-c72b-48db-9263-aed86b311994",
+            "responses": {
+                "d74834e9-1ac8-4753-8e17-f8aff7582cb0": "pot",
+                "491de3f1-fc1f-46ee-a3af-1d2cfa02ceb5": true
+            },
+            "distance": 0.04,
+            "location": {
+                "lat": 42.37623,
+                "lng": -71.11222
+            },
+            "contactId": "bd9cde10-6ba3-4b7f-a592-618466a89312",
+            "campaignId": "b0d2302a-8dbb-4d7b-be47-9dc4914fe84d",
+            "available": false
+        },
+        "meta": {
+            "created": "2019-10-13T13:20:33.774Z",
+            "resource": "interactions",
+            "createdBy": "d48a3d77-5665-48d2-b76b-390972f2816c"
+        }
+    },
+    {
+        "id": "8ad29d55-fbbf-45ea-85b4-e0408f5e5576",
+        "data": {
+            "listId": "8c627332-01bb-4dbc-86e0-af4800d2b51f",
+            "responses": {
+                "6b2ba6f6-7a9b-4e2e-9e0b-eec33cb85a2e": "mielaha",
+                "8e2717d7-4e4e-4ca8-8ba5-74da15652f5c": true
+            },
+            "distance": 0.05,
+            "location": {
+                "lat": 42.37401,
+                "lng": -71.11145
+            },
+            "contactId": "83518d3a-2bc0-49b0-94a2-56354368d733",
+            "campaignId": "dbb6dca2-caf8-46b8-a796-a4ae7f4db655",
+            "available": true
+        },
+        "meta": {
+            "created": "2019-10-22T15:29:33.776Z",
+            "resource": "interactions",
+            "createdBy": "db278745-a8a6-400c-a7ea-4fc8d08afab8"
+        }
+    },
+    {
+        "id": "dec4fda2-0348-4e6d-b3e5-f2428c96791a",
+        "data": {
+            "listId": "76493432-6e55-42f9-8ef0-66378e88bb79",
+            "responses": {
+                "73528387-cc83-4780-aded-ca0c581cbd09": "keguk",
+                "be5d0567-a11a-4383-afd6-0604990d7666": true
+            },
+            "distance": 0.03,
+            "location": {
+                "lat": 42.37461,
+                "lng": -71.11307
+            },
+            "contactId": "99c6d8d2-c2d3-4390-bcaf-a10247f260a1",
+            "campaignId": "e20ef702-2305-4ece-9e9b-5bb994b7d739",
+            "available": true
+        },
+        "meta": {
+            "created": "2019-10-22T15:58:33.782Z",
+            "resource": "interactions",
+            "createdBy": "9f04d790-b526-49d6-8ff3-f3220fba599d"
+        }
+    },
+    {
+        "id": "7a538c7f-62d3-4466-bc47-ad986ff33e57",
+        "data": {
+            "listId": "cd19b700-a753-452a-a968-cfdf49bba0a6",
+            "responses": {
+                "8ad89002-87ac-43e3-9f85-76eccb485971": "gem",
+                "9f05d582-0131-4cb3-9c4c-99c8199300e0": false
+            },
+            "distance": 0.05,
+            "location": {
+                "lat": 42.37573,
+                "lng": -71.11366
+            },
+            "contactId": "35010766-b458-4448-983c-46a86f1868d0",
+            "campaignId": "5804487c-d50b-4c29-9eb0-99e9f78eff11",
+            "available": false
+        },
+        "meta": {
+            "created": "2019-10-12T13:02:33.773Z",
+            "resource": "interactions",
+            "createdBy": "3a4254d3-86d8-471f-a514-51a58bd78b0f"
+        }
+    },
+    {
+        "id": "a9906cda-755b-4160-82f5-a58fa6579419",
+        "data": {
+            "listId": "825b1fc5-c339-4580-9486-19c15dda2806",
+            "responses": {
+                "c9b7cdff-836d-45ab-80f9-5b7327b26e93": "zampol",
+                "bf1178ce-6780-4796-a6c6-a719045aefe6": false
+            },
+            "distance": 0.01,
+            "location": {
+                "lat": 42.37588,
+                "lng": -71.11462
+            },
+            "contactId": "5aa1edee-9ef0-4d19-bb12-ef01323efd8d",
+            "campaignId": "df897d8a-1e0d-4076-9140-f6d4afc9b501",
+            "available": false
+        },
+        "meta": {
+            "created": "2019-10-11T15:53:33.774Z",
+            "resource": "interactions",
+            "createdBy": "d48a3d77-5665-48d2-b76b-390972f2816c"
+        }
+    },
+    {
+        "id": "3f8a3c6e-9d0e-461d-8086-fae9bb53bbc3",
+        "data": {
+            "listId": "cde428aa-69eb-45f1-abce-9a8405e4601e",
+            "responses": {
+                "f19c27b5-31cd-4a71-9c0f-2e94cc62b6b0": "urzu",
+                "418c7961-3f2f-448e-b75f-87712702e49c": true
+            },
+            "distance": 0.01,
+            "location": {
+                "lat": 42.37601,
+                "lng": -71.11253
+            },
+            "contactId": "6a867f5c-8e30-47e0-b019-d8d39c87c1f8",
+            "campaignId": "efcd4942-4ce8-4b1f-8ba8-e3c9e785b24b",
+            "available": false
+        },
+        "meta": {
+            "created": "2019-10-17T15:06:33.770Z",
+            "resource": "interactions",
+            "createdBy": "5a3a81a1-7919-40c7-b4e9-c505ab1792b9"
+        }
+    },
+    {
+        "id": "8a8fc8e3-a3d4-4350-a60c-c52b8ab41ef0",
+        "data": {
+            "listId": "18076baf-6f9f-4e7f-9898-c2ba9d0cc51a",
+            "responses": {
+                "6f4b3d9e-b306-415d-af14-f45ef0112103": "cicdaju",
+                "48973d4c-4c68-4b14-a427-51196018f700": true
+            },
+            "distance": 0.03,
+            "location": {
+                "lat": 42.37696,
+                "lng": -71.11238
+            },
+            "contactId": "5d591622-32ea-4ca2-9f71-6c17fdd34790",
+            "campaignId": "7fe0b650-23ef-4125-8560-6e2a192f6a58",
+            "available": false
+        },
+        "meta": {
+            "created": "2019-10-19T13:10:33.779Z",
+            "resource": "interactions",
+            "createdBy": "e97ba211-bb4b-4579-9d8b-aceb3e443e9a"
+        }
+    },
+    {
+        "id": "76405477-b89c-4ecd-8a42-b8485691c40d",
+        "data": {
+            "listId": "327562fd-0186-49e5-8701-95319797abd8",
+            "responses": {
+                "d5c2278a-fd7e-4c3b-b9f0-79b1867fd4b4": "gofaz",
+                "36453d14-7a4b-4ee4-b20e-b4cf778bd7de": true
+            },
+            "distance": 0.04,
+            "location": {
+                "lat": 42.37391,
+                "lng": -71.11065
+            },
+            "contactId": "fc305008-0f23-4c25-841b-507ce0f97c8d",
+            "campaignId": "d0bb4b2b-4fab-44a7-99eb-723725e228e1",
+            "available": false
+        },
+        "meta": {
+            "created": "2019-10-15T19:41:33.773Z",
+            "resource": "interactions",
+            "createdBy": "d48a3d77-5665-48d2-b76b-390972f2816c"
+        }
+    },
+    {
+        "id": "39547e5d-2b4c-4039-89af-b58ce3b6ade2",
+        "data": {
+            "listId": "2a0847d4-49fa-4e29-ac47-f59e5160f344",
+            "responses": {
+                "4cc20502-e9f7-4755-8218-1ee8638fcef8": "sireju",
+                "1baa6cf7-c69c-43eb-b845-571f6cdb2f80": false
+            },
+            "distance": 0.01,
+            "location": {
+                "lat": 42.37654,
+                "lng": -71.11226
+            },
+            "contactId": "f4c87022-9d0b-4f77-8c3f-a7508a6ab0eb",
+            "campaignId": "37c372d4-500b-47ee-a384-85474d11a3e7",
+            "available": false
+        },
+        "meta": {
+            "created": "2019-10-03T15:01:33.780Z",
+            "resource": "interactions",
+            "createdBy": "ecdbf5de-8124-48b3-b326-680baf1f52d8"
+        }
+    },
+    {
+        "id": "2d56041a-94be-43a4-a9a5-b1797d79d432",
+        "data": {
+            "listId": "8f2bb254-7da7-4757-8415-d8060f879576",
+            "responses": {
+                "a4a115c4-a15d-4258-87c1-44ace53c9455": "lufazpe",
+                "5ff5b241-15df-4c8e-8bad-a06fcf26d19a": true
+            },
+            "distance": 0.03,
+            "location": {
+                "lat": 42.37741,
+                "lng": -71.11344
+            },
+            "contactId": "10d561d2-f718-4ad1-8f3a-60956cfad9fb",
+            "campaignId": "daf50262-f57d-49a1-b41d-bea7988eefe6",
+            "available": false
+        },
+        "meta": {
+            "created": "2019-10-18T05:17:33.779Z",
+            "resource": "interactions",
+            "createdBy": "ecdbf5de-8124-48b3-b326-680baf1f52d8"
+        }
+    },
+    {
+        "id": "20fa9186-2178-459b-b4cc-cd9d04891e17",
+        "data": {
+            "listId": "fa295465-569c-4217-8e78-4ac0e15bdae8",
+            "responses": {
+                "8398d040-4bec-469e-8319-a81d6dd76499": "umkov",
+                "968d0aab-19da-4d98-8f57-3ed1b3a0e548": true
+            },
+            "distance": 0.01,
+            "location": {
+                "lat": 42.37772,
+                "lng": -71.11394
+            },
+            "contactId": "e211d48b-18ab-4416-a160-1c1e9277240b",
+            "campaignId": "ab5ec90d-ceb1-42e1-8e18-76e69a4eaee7",
+            "available": true
+        },
+        "meta": {
+            "created": "2019-10-22T15:13:33.782Z",
+            "resource": "interactions",
+            "createdBy": "9f04d790-b526-49d6-8ff3-f3220fba599d"
+        }
+    },
+    {
+        "id": "852f73b0-2c20-4367-88e5-04c1cff811fb",
+        "data": {
+            "listId": "1fae1ef1-a47d-4270-8a18-dfb5adbad628",
+            "responses": {
+                "d9918500-5fdb-47e1-b8d4-fd7e42b1ab4f": "ek",
+                "8ebb0e41-2389-4f48-ae4a-010e5414122a": false
+            },
+            "distance": 0.03,
+            "location": {
+                "lat": 42.37577,
+                "lng": -71.11151
+            },
+            "contactId": "0ec24e4a-d5b8-4b67-9eed-a5cf7be4a431",
+            "campaignId": "5838818b-217a-477e-bfe9-d7e0f90572a8",
+            "available": true
+        },
+        "meta": {
+            "created": "2019-10-22T15:30:33.775Z",
+            "resource": "interactions",
+            "createdBy": "db278745-a8a6-400c-a7ea-4fc8d08afab8"
+        }
+    },
+    {
+        "id": "bcdd06c4-ee3a-488d-b6b5-db7180ea2681",
+        "data": {
+            "listId": "318ee0f5-4d9f-4c6a-b629-cf7195a784f0",
+            "responses": {
+                "787e21c3-76ae-4089-a141-b08bbc9db8e0": "ditvolzu",
+                "54ac741c-26dd-4155-9ecc-2ca83f60d8ca": true
+            },
+            "distance": 0.04,
+            "location": {
+                "lat": 42.37673,
+                "lng": -71.11164
+            },
+            "contactId": "9bebbcb5-daea-483f-a569-b59006037b69",
+            "campaignId": "24bf0205-7561-40cd-adaa-dda90f897570",
+            "available": false
+        },
+        "meta": {
+            "created": "2019-10-03T20:13:33.772Z",
+            "resource": "interactions",
+            "createdBy": "5a3a81a1-7919-40c7-b4e9-c505ab1792b9"
+        }
+    }
+]
